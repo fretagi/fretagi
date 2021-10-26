@@ -1,6 +1,8 @@
-#### Hi there, I am Fernando 👋
 
+<h2 align="center"> Hi there, I am Fernando 👋</h2>
 
+<br />
+<br />
 
 - 🔭 I’m currently working on mobile phone network operator as a unix sys admin
 - 🌱 I’m currently learning web development
