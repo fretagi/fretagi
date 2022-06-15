@@ -20,11 +20,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/fretagi?style=social)
 <br />
 
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fretagi&show_icons=true&theme=radical)
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fretagi&show_icons=true&bg_color=00000000)
 <br />
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fretagi&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fretagi&langs_count=5&bg_color=00000000)]()
 <br />
 <br />
 
