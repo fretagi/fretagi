@@ -4,10 +4,10 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on mobile phone network operator as a unix sys admin
+- 🔭 I’m currently working as a Linux Sys Admin
 - 🌱 I’m currently learning web development
-- 🤔 I’m looking for help with ...ES6, React
-- 💬 Ask me about HP-UX, solaris, Ubuntu, Centos
+- 🤔 I’m looking for help with configuration tools and cloud
+- 💬 Ask me about rehat, debian and some AIX
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: Instead of the job I have, I’ve always dreamed of being an aircraft pilot
 
