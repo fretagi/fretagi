@@ -5,9 +5,9 @@
 <br />
 
 - 🔭 I’m currently working as a Linux Sys Admin
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning kubernetes in skool.com
 - 🤔 I’m looking for help with configuration tools and cloud
-- 💬 Ask me about rehat, debian and some AIX
+- 💬 Ask me about rehat, debian, HP-UX and some AIX
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: Instead of the job I have, I’ve always dreamed of being an aircraft pilot
 
