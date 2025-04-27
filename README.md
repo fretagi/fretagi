@@ -4,10 +4,10 @@
 <br />
 <br />
 
-- 🔭 I’m currently working as a Linux Sys Admin
+- 🔭 I’m currently working as a Linux Sys Admin and I am aspiring DevOps Engineer
 - 🌱 I’m currently learning kubernetes in skool.com
 - 🤔 I’m looking for help with configuration tools and cloud
-- 💬 Ask me about rehat, debian, HP-UX and some AIX
+- 💬 Ask me about RedHat Enterprise Linux, Debian, HP-UX, Solaris and some AIX
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: Instead of the job I have, I’ve always dreamed of being an aircraft pilot
 
